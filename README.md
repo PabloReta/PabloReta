@@ -40,10 +40,10 @@
 
 ### 📫 Contacto
 
-- 📧 [pabloreta.dev@gmail.com](mailto:pabloreta.dev@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pabloreta/)
+- 📧 [reta_pablo_@hotmail.com](mailto:reta_pablo_@hotmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/pabloreta/](https://www.linkedin.com/in/pablo-reta-9662a219a/))
 
 ---
 
 <p align="center">Gracias por visitar mi perfil 😊 ¡Seguimos construyendo!</p>
-“Update README”
+
