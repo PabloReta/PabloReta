@@ -41,7 +41,7 @@
 ### 📫 Contacto
 
 - 📧 [reta_pablo_@hotmail.com](mailto:reta_pablo_@hotmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/pabloreta/](https://www.linkedin.com/in/pablo-reta-9662a219a/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-reta-9662a219a/)
 
 ---
 
